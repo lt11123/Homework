@@ -33,7 +33,7 @@ trainset.data.shape
 
 **（3）显示数据集中的部分图片及标签**
 
-![image-20211108193252778](D:\typoraimage\image-20211108193252778.png)
+![image-20211108193252778](D:\研\人工智能安全\homework\images\image-20211108193252778.png)
 
 ### 2、定义网络模型
 
@@ -148,11 +148,11 @@ testing loss: 0.0020, testing acc 0.8485
 
 **（2）损失函数曲线**
 
-![image-20211108194500357](D:\typoraimage\image-20211108194500357.png)
+![image-20211108194500357](D:\研\人工智能安全\homework\images\image-20211108194500357.png)
 
 **（3）准确率曲线**
 
-![image-20211108194611361](D:\typoraimage\image-20211108194611361.png)
+![image-20211108194611361](D:\研\人工智能安全\homework\images\image-20211108194611361.png)
 
 ### 4、测试
 
@@ -185,7 +185,7 @@ Accuracy for class truck is: 91.2 %
 Accuracy Rate = 85.15625%
 ```
 
-![image-20211108195050243](D:\typoraimage\image-20211108195050243.png)
+![image-20211108195050243](D:\研\人工智能安全\homework\images\image-20211108195050243.png)
 
 ### 6、保存模型
 
